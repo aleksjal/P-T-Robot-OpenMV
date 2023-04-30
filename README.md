@@ -40,3 +40,4 @@ Code.
 
 I ve used the code from SingTown OpenMV-Pan-Tilt (https://github.com/SingTown/OpenMV-Pan-Tilt/edit/master/pan-tilt/src/find_face.py) added only this line "sensor.set_hmirror(True)" to sensor init sequence, according to my sensor orientation.
 
+Happy hacking!
