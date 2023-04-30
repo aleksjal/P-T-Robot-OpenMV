@@ -14,7 +14,7 @@ Hardware.
 
 3. Servo Motor MG995/M996 - 2 servos
 
-4. Power for servos. Any battery pack, I used 4xAA inside battery box and soldered power switch on a positive wire, to manage power across projects I used the proto-board which comes with OpenMV vision sensor and some power output terminations of different types so I can easyly provide different types of projects with power source. Here I used female wires(+/GND) to male pins on power board to feed the pan and tilt servos.
+4. Power for servos. Any battery pack, I used 4xAA inside battery box and soldered power switch on a positive wire, to manage power across projects effectively I ve used the proto-board which comes with OpenMV vision sensor and some power terminations of different types so I can easyly provide different types of projects with power source. Here I used female wires(+/GND) to male pins on power board to feed the pan and tilt servos.
 ![2023-04-30-15-08-53-393](https://user-images.githubusercontent.com/13249938/235376810-33fe0e15-3777-49fc-b1e7-7084faf220ad.jpg)
 
 5. Some wires, face or two, bolts and nuts or something else to securely mount H7 to tilt bracket...
@@ -38,6 +38,5 @@ In a box with the OpenMV H7 sensor I ve found very usefull compact servos PCB wh
 
 Code.
 
-I am totally new to Python and I ve used code from SingTown OpenMV-Pan-Tilt (https://github.com/SingTown/OpenMV-Pan-Tilt/edit/master/pan-tilt/src/find_face.py) with only one change. 
-I ve added this line "sensor.set_hmirror(True)" to sensor init sequence, according to my sensor orientation.
+I ve used the code from SingTown OpenMV-Pan-Tilt (https://github.com/SingTown/OpenMV-Pan-Tilt/edit/master/pan-tilt/src/find_face.py) added only this line "sensor.set_hmirror(True)" to sensor init sequence, according to my sensor orientation.
 
