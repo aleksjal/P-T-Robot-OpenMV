@@ -25,12 +25,13 @@ Building.
 
 Assemble Pan&Tilt with servos. I used 2 sets of brackets to firmly mount mechanism to the robot chassis, I had some brackets to mount the sensor, and in the box you ll find nice acrylyc mount frame with 4 sets of M3.
 
-![mechanism](https://user-images.githubusercontent.com/13249938/235331658-efc232cf-7627-4f4b-8141-418e33385b6b.jpg)
+![mechanism]![2023-04-30-15-16-35-196](https://user-images.githubusercontent.com/13249938/235376718-805e2c61-2732-4ce9-9760-d3fa086c617b.jpg)
 
 Wiring.
 
 In a box with the OpenMV H7 sensor I ve found very usefull compact servos PCB which allows you to manage all project wirings like a charm, just apply some soldering and voila.
 
-![servo-board](https://user-images.githubusercontent.com/13249938/235332120-f8dc79d7-24b9-4f85-a22b-003c699817d0.jpg)
+![servo-board]![2023-04-30-15-10-40-519](https://user-images.githubusercontent.com/13249938/235376739-058c667b-a547-49af-81e1-630d9c8e5411.jpg)
+
 
 
