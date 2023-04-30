@@ -34,5 +34,8 @@ In a box with the OpenMV H7 sensor I ve found very usefull compact servos PCB wh
 
 ![servo-board]![2023-04-30-15-10-40-519](https://user-images.githubusercontent.com/13249938/235376739-058c667b-a547-49af-81e1-630d9c8e5411.jpg)
 
+Code.
 
+I am totally new to Python and I ve used code from SingTown OpenMV-Pan-Tilt (https://github.com/SingTown/OpenMV-Pan-Tilt/edit/master/pan-tilt/src/find_face.py) with only one change. 
+I ve added this line "sensor.set_hmirror(True)" to sensor init sequence, according to my sensor orientation.
 
