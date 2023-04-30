@@ -18,9 +18,9 @@ Hardware.
 ![2023-04-30-15-08-53-393](https://user-images.githubusercontent.com/13249938/235376810-33fe0e15-3777-49fc-b1e7-7084faf220ad.jpg)
 
 5. Some wires, face or two, bolts and nuts or something else to securely mount H7 to tilt bracket...
-...optional
 
-6. I used raspberry pi zero 2 W to run OpenMV IDE, because I needed mobility for another project, but any computer is okay. 
+
+6. (Optional) I used raspberry pi zero 2 W to run OpenMV IDE, because I needed mobility for another project, but any computer is okay. 
 
 Building.
 
@@ -30,7 +30,7 @@ Assemble Pan&Tilt with servos. I used 2 sets of brackets to firmly mount mechani
 
 Wiring.
 
-In a box with the OpenMV H7 sensor I ve found very usefull compact servos PCB which allows you to manage all project wirings like a charm, just apply some soldering and voila.
+In a box with the OpenMV H7 sensor I ve found very usefull compact servos PCB which allows you to manage all project wirings like a charm, just apply some soldering and voila. P7,P8, one of the GND should go to OpenMV CAM P7,P8 and GND. VCC pin and second ground to my power board, servos to servo1(pan) and servo2(tilt).
 
 ![servo-board]![2023-04-30-15-10-40-519](https://user-images.githubusercontent.com/13249938/235376739-058c667b-a547-49af-81e1-630d9c8e5411.jpg)
 
