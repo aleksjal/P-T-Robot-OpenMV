@@ -2,7 +2,8 @@
 
 Pan&amp;Tilt Robot controlled with OpenMV H7 Plus vision sensor.
 
-![robot](https://user-images.githubusercontent.com/13249938/235330100-1800695d-1031-4973-a6c4-851a631070e4.jpg)
+![2023-04-30-15-12-27-966](https://user-images.githubusercontent.com/13249938/235376662-e3f70a7d-f41b-4c2a-b2c9-24f05bb51d57.jpg)
+
 
 
 Hardware.
