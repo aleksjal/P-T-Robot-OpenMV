@@ -24,7 +24,7 @@ Hardware.
 
 Building.
 
-Assemble Pan&Tilt with servos. I used 2 sets of brackets to firmly mount mechanism to the robot chassis, I had some brackets to mount the sensor, and in the box you ll find nice acrylyc mount frame with 4 sets of M3.
+Assemble Pan&Tilt with servos. I used 2 sets of brackets to firmly mount mechanism to the robot chassis, I had some brackets to mount the sensor, and OpenMV CAM comes with nice acrylyc mount frame with 4 sets of M3.
 
 ![2023-04-30-15-43-59-815](https://user-images.githubusercontent.com/13249938/235377625-73eac7fb-bc0f-412d-9d25-4ec9b471efdc.jpg)
 
