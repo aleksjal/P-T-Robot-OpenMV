@@ -14,7 +14,7 @@ Hardware.
 
 3. Servo Motor MG995/M996 - 2 servos
 
-4. Power for servos. Any battery pack, I used 4xAA inside battery box and soldered power switch on a positive wire, to manage power across projects effectively I ve used the proto-board which comes with OpenMV vision sensor and some power terminations of different types so I can easyly provide different types of projects with power source. Here I used female wires(+/GND) to male pins on power board to feed the pan and tilt servos.
+4. Power for servos. Any battery pack, I used 4xAA inside battery box and soldered power switch on a positive wire, to manage power across projects effectively I ve used the proto-board which comes with OpenMV vision sensor and some power terminations of different types so I can easyly provide different types of projects with power source. Here I used female wires(+/GND) to male pins on power board to feed the pan and tilt servos. One blue led with 1KOm resistor indicate power is on.
 ![2023-04-30-15-08-53-393](https://user-images.githubusercontent.com/13249938/235376810-33fe0e15-3777-49fc-b1e7-7084faf220ad.jpg)
 
 5. Some wires, face or two, bolts and nuts or something else to securely mount H7 to tilt bracket...
